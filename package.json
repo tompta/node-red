@@ -1,0 +1,28 @@
+{
+  "name": "node-red-project",
+  "description": "A Node-RED Project",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-red-contrib-bool-gate": "~1.0.2",
+    "node-red-contrib-clock-generator": "~1.0.0",
+    "node-red-contrib-drawsvg": "~1.2.0",
+    "node-red-contrib-dsm": "~0.14.1",
+    "node-red-contrib-mqtt-aviosys": "~1.0.1",
+    "node-red-contrib-os": "~0.2.0",
+    "node-red-contrib-play-audio": "^2.5.0",
+    "node-red-contrib-ring-buffer": "~0.10.0",
+    "node-red-contrib-ui-actions": "~0.1.8",
+    "node-red-contrib-ui-led": "~0.3.3",
+    "node-red-contrib-ui-media": "~1.2.0",
+    "node-red-contrib-ui-svg": "~2.0.2",
+    "node-red-dashboard": "~2.23.2",
+    "node-red-node-base64": "~0.2.1",
+    "node-red-node-daemon": "~0.1.2",
+    "node-red-node-pi-gpio": "^1.1.1",
+    "node-red-node-ping": "^0.2.1",
+    "node-red-node-random": "^0.2.0",
+    "node-red-node-serialport": "^0.10.3",
+    "node-red-node-smooth": "^0.1.2",
+    "ttb-node-red-counter": "~0.1.0"
+  }
+}
